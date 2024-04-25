@@ -1,0 +1,312 @@
+[
+    {
+        "id": "1",
+        "exchange": "Poloniex",
+        "url_link": "https://www.walletexplorer.com/wallet/Poloniex.com/addresses",
+        "max_page": 10725,
+        "crawled": 0,
+        "start_at": "2024-04-25 12:02:08",
+        "completed_at": "2024-04-25 12:02:14",
+        "isCompleted": false
+    },
+    {
+        "id": "2",
+        "exchange": "Huobi.com",
+        "url_link": "https://www.walletexplorer.com/wallet/Huobi.com/addresses",
+        "max_page": 1611,
+        "crawled": 0,
+        "start_at": 0,
+        "completed_at": 0,
+        "isCompleted": false
+    },
+    {
+        "id": "3",
+        "exchange": "Bittrex.com",
+        "url_link": "https://www.walletexplorer.com/wallet/Bittrex.com/addresses",
+        "max_page": 16496,
+        "crawled": 0,
+        "start_at": 0,
+        "completed_at": 0,
+        "isCompleted": false
+    },
+    {
+        "id": "4",
+        "exchange": "Luno.com",
+        "url_link": "https://www.walletexplorer.com/wallet/Luno.com/addresses",
+        "max_page": 75726,
+        "crawled": 0,
+        "start_at": 0,
+        "completed_at": 0,
+        "isCompleted": false
+    },
+    {
+        "id": "5",
+        "exchange": "Bitstamp.net",
+        "url_link": "https://www.walletexplorer.com/wallet/Bitstamp.net/addresses",
+        "max_page": 4785,
+        "crawled": 0,
+        "start_at": 0,
+        "completed_at": 0,
+        "isCompleted": false
+    },
+    {
+        "id": "6",
+        "exchange": "LocalBitcoins.com",
+        "url_link": "https://www.walletexplorer.com/wallet/LocalBitcoins.com/addresses",
+        "max_page": 5234,
+        "crawled": 0,
+        "start_at": 0,
+        "completed_at": 0,
+        "isCompleted": false
+    },
+    {
+        "id": "7",
+        "exchange": "MercadoBitcoin.com.br",
+        "url_link": "https://www.walletexplorer.com/wallet/MercadoBitcoin.com.br/addresses",
+        "max_page": 4159,
+        "crawled": 0,
+        "start_at": 0,
+        "completed_at": 0,
+        "isCompleted": false
+    },
+    {
+        "id": "8",
+        "exchange": "Binance.com",
+        "url_link": "https://www.walletexplorer.com/wallet/Binance.com/addresses",
+        "max_page": 2951,
+        "crawled": 0,
+        "start_at": 0,
+        "completed_at": 0,
+        "isCompleted": false
+    },
+    {
+        "id": "9",
+        "exchange": "YoBit.net",
+        "url_link": "https://www.walletexplorer.com/wallet/YoBit.net/addresses",
+        "max_page": 2631,
+        "crawled": 0,
+        "start_at": 0,
+        "completed_at": 0,
+        "isCompleted": false
+    },
+    {
+        "id": "10",
+        "exchange": "OKCoin.com",
+        "url_link": "https://www.walletexplorer.com/wallet/OKCoin.com/addresses",
+        "max_page": 782,
+        "crawled": 0,
+        "start_at": 0,
+        "completed_at": 0,
+        "isCompleted": false
+    },
+    {
+        "id": "11",
+        "exchange": "OKCoin.com-2",
+        "url_link": "https://www.walletexplorer.com/wallet/OKCoin.com-2/addresses",
+        "max_page": 810,
+        "crawled": 0,
+        "start_at": 0,
+        "completed_at": 0,
+        "isCompleted": false
+    },
+    {
+        "id": "12",
+        "exchange": "CoinJoinMess",
+        "url_link": "https://www.walletexplorer.com/wallet/CoinJoinMess/addresses",
+        "max_page": 50606,
+        "crawled": 0,
+        "start_at": 0,
+        "completed_at": 0,
+        "isCompleted": false
+    },
+    {
+        "id": "13",
+        "exchange": "BtcTrade.com",
+        "url_link": "https://www.walletexplorer.com/wallet/BtcTrade.com/addresses",
+        "max_page": 838,
+        "crawled": 0,
+        "start_at": 0,
+        "completed_at": 0,
+        "isCompleted": false
+    },
+    {
+        "id": "14",
+        "exchange": "Bitfinex.com",
+        "url_link": "https://www.walletexplorer.com/wallet/Bitfinex.com/addresses",
+        "max_page": 40,
+        "crawled": 0,
+        "start_at": 0,
+        "completed_at": 0,
+        "isCompleted": false
+    },
+    {
+        "id": "15",
+        "exchange": "Bitfinex.com-old",
+        "url_link": "https://www.walletexplorer.com/wallet/Bitfinex.com-old/addresses",
+        "max_page": 28,
+        "crawled": 0,
+        "start_at": 0,
+        "completed_at": 0,
+        "isCompleted": false
+    },
+    {
+        "id": "16",
+        "exchange": "Bitfinex.com-old2",
+        "url_link": "https://www.walletexplorer.com/wallet/Bitfinex.com-old2/addresses",
+        "max_page": 777,
+        "crawled": 0,
+        "start_at": 0,
+        "completed_at": 0,
+        "isCompleted": false
+    },
+    {
+        "id": "17",
+        "exchange": "UrduBit.com-cold",
+        "url_link": "https://www.walletexplorer.com/wallet/UrduBit.com-cold/addresses",
+        "max_page": 1,
+        "crawled": 0,
+        "start_at": 0,
+        "completed_at": 0,
+        "isCompleted": false
+    },
+    {
+        "id": "18",
+        "exchange": "Paxful.com",
+        "url_link": "https://www.walletexplorer.com/wallet/Paxful.com/addresses",
+        "max_page": 553,
+        "crawled": 0,
+        "start_at": 0,
+        "completed_at": 0,
+        "isCompleted": false
+    },
+    {
+        "id": "19",
+        "exchange": "BTC-e.com",
+        "url_link": "https://www.walletexplorer.com/wallet/BTC-e.com/addresses",
+        "max_page": 3076,
+        "crawled": 0,
+        "start_at": 0,
+        "completed_at": 0,
+        "isCompleted": false
+    },
+    {
+        "id": "20",
+        "exchange": "BTC-e.com-output",
+        "url_link": "https://www.walletexplorer.com/wallet/BTC-e.com-output/addresses",
+        "max_page": 34,
+        "crawled": 0,
+        "start_at": 0,
+        "completed_at": 0,
+        "isCompleted": false
+    },
+    {
+        "id": "21",
+        "exchange": "BTC-e.com-old",
+        "url_link": "https://www.walletexplorer.com/wallet/BTC-e.com-old/addresses",
+        "max_page": 3485,
+        "crawled": 0,
+        "start_at": 0,
+        "completed_at": 0,
+        "isCompleted": false
+    },
+    {
+        "id": "22",
+        "exchange": "Bitstamp.net-old",
+        "url_link": "https://www.walletexplorer.com/wallet/Bitstamp.net-old/addresses",
+        "max_page": 1380,
+        "crawled": 0,
+        "start_at": 0,
+        "completed_at": 0,
+        "isCompleted": false
+    },
+    {
+        "id": "23",
+        "exchange": "Binance.com-old",
+        "url_link": "https://www.walletexplorer.com/wallet/Binance.com-old/addresses",
+        "max_page": 1,
+        "crawled": 0,
+        "start_at": 0,
+        "completed_at": 0,
+        "isCompleted": false
+    },
+    {
+        "id": "24",
+        "exchange": "Bitcoin.de",
+        "url_link": "https://www.walletexplorer.com/wallet/Bitcoin.de/addresses",
+        "max_page": 3071,
+        "crawled": 0,
+        "start_at": 0,
+        "completed_at": 0,
+        "isCompleted": false
+    },
+    {
+        "id": "25",
+        "exchange": "Bitcoin.de-old",
+        "url_link": "https://www.walletexplorer.com/wallet/Bitcoin.de-old/addresses",
+        "max_page": 957,
+        "crawled": 0,
+        "start_at": 0,
+        "completed_at": 0,
+        "isCompleted": false
+    },
+    {
+        "id": "26",
+        "exchange": "CoinSpot.com.au",
+        "url_link": "https://www.walletexplorer.com/wallet/CoinSpot.com.au/addresses",
+        "max_page": 2067,
+        "crawled": 0,
+        "start_at": 0,
+        "completed_at": 0,
+        "isCompleted": false
+    },
+    {
+        "id": "27",
+        "exchange": "BTCC.com",
+        "url_link": "https://www.walletexplorer.com/wallet/BTCC.com/addresses",
+        "max_page": 637,
+        "crawled": 0,
+        "start_at": 0,
+        "completed_at": 0,
+        "isCompleted": false
+    },
+    {
+        "id": "28",
+        "exchange": "BTCC.com-old",
+        "url_link": "https://www.walletexplorer.com/wallet/BTCC.com-old/addresses",
+        "max_page": 355,
+        "crawled": 0,
+        "start_at": 0,
+        "completed_at": 0,
+        "isCompleted": false
+    },
+    {
+        "id": "29",
+        "exchange": "BTCC.com-old2",
+        "url_link": "https://www.walletexplorer.com/wallet/BTCC.com-old2/addresses",
+        "max_page": 238,
+        "crawled": 0,
+        "start_at": 0,
+        "completed_at": 0,
+        "isCompleted": false
+    },
+    {
+        "id": "30",
+        "exchange": "HitBtc.com",
+        "url_link": "https://www.walletexplorer.com/wallet/HitBtc.com/addresses",
+        "max_page": 1873,
+        "crawled": 0,
+        "start_at": 0,
+        "completed_at": 0,
+        "isCompleted": false
+    },
+    {
+        "id": "31",
+        "exchange": "HitBtc.com-old",
+        "url_link": "https://www.walletexplorer.com/wallet/HitBtc.com-old/addresses",
+        "max_page": 77,
+        "crawled": 0,
+        "start_at": 0,
+        "completed_at": 0,
+        "isCompleted": false
+    }
+]
